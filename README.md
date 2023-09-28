@@ -6,12 +6,12 @@
 
 Thanks for checking out this front-end coding challenge.
 
-[Frontend Mentor](https://www.frontendmentor.io) challenges help you improve your coding skills by building realistic projects.
+[Frontend Mentor](https://www.frontendmentor.io/profile/Abdelrhman-Abass)
 ### video
-![Video](https://clipchamp.com/watch/vEE8pEDzEyh)
+![Video](https://drive.google.com/file/d/1EPpiciUJJ9ZHGeOevGFPHoDJLYZZjwEt/view?usp=sharing)
 ### Links
 
-- Live Site URL: [live site here](https://abdelrhman-abass.github.io/)
+- Live Site URL: [live site here](https://abdelrhman-abass.github.io/To_Do_App_localStorage/)
 
 
 ## Built with

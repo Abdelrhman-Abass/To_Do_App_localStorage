@@ -7,12 +7,10 @@
 Thanks for checking out this front-end coding challenge.
 
 [Frontend Mentor](https://www.frontendmentor.io/profile/Abdelrhman-Abass)
-### video
-![Video](https://drive.google.com/file/d/1EPpiciUJJ9ZHGeOevGFPHoDJLYZZjwEt/view?usp=sharing)
+
 ### Links
 
 - Live Site URL: [live site here](https://abdelrhman-abass.github.io/To_Do_App_localStorage/)
-
 
 ## Built with
 
